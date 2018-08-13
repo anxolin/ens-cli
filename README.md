@@ -1,8 +1,7 @@
-# ENS Basic
-Basic CLI to interact with ENS:
+# ENS cli
+Basic CLI to interacting with ENS:
 
 ## Basic
-
 ```bash
 # Install dependencies
 yarn install
